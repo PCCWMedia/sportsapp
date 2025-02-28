@@ -1,0 +1,204 @@
+{
+  "plTable": [
+    {
+      "standing": "1",
+      "club": "Liverpool",
+      "shortName": "LIV",
+      "PL": 27,
+      "W": 19,
+      "D": 7,
+      "L": 1,
+      "pts": 64
+    },
+    {
+      "standing": "2",
+      "club": "Arsenal",
+      "shortName": "ARS",
+      "PL": 26,
+      "W": 15,
+      "D": 8,
+      "L": 3,
+      "pts": 53
+    },
+    {
+      "standing": "3",
+      "club": "Nott'm Forest",
+      "shortName": "NFO",
+      "PL": 26,
+      "W": 14,
+      "D": 5,
+      "L": 7,
+      "pts": 47
+    },
+    {
+      "standing": "4",
+      "club": "Man City",
+      "shortName": "MCI",
+      "PL": 26,
+      "W": 13,
+      "D": 5,
+      "L": 8,
+      "pts": 44
+    },
+    {
+      "standing": "5",
+      "club": "Newcastle",
+      "shortName": "NEW",
+      "PL": 26,
+      "W": 13,
+      "D": 5,
+      "L": 8,
+      "pts": 44
+    },
+    {
+      "standing": "6",
+      "club": "Bournemouth",
+      "shortName": "BOU",
+      "PL": 26,
+      "W": 12,
+      "D": 7,
+      "L": 7,
+      "pts": 43
+    },
+    {
+      "standing": "7",
+      "club": "Chelsea",
+      "shortName": "CHE",
+      "PL": 26,
+      "W": 12,
+      "D": 7,
+      "L": 7,
+      "pts": 43
+    },
+    {
+      "standing": "8",
+      "club": "Aston Villa",
+      "shortName": "AVL",
+      "PL": 27,
+      "W": 11,
+      "D": 9,
+      "L": 7,
+      "pts": 42
+    },
+    {
+      "standing": "9",
+      "club": "Brighton",
+      "shortName": "BHA",
+      "PL": 26,
+      "W": 10,
+      "D": 10,
+      "L": 6,
+      "pts": 40
+    },
+    {
+      "standing": "10",
+      "club": "Fulham",
+      "shortName": "FUL",
+      "PL": 26,
+      "W": 10,
+      "D": 9,
+      "L": 7,
+      "pts": 39
+    },
+    {
+      "standing": "11",
+      "club": "Brentford",
+      "shortName": "BRE",
+      "PL": 26,
+      "W": 11,
+      "D": 4,
+      "L": 11,
+      "pts": 37
+    },
+    {
+      "standing": "12",
+      "club": "Spurs",
+      "shortName": "TOT",
+      "PL": 26,
+      "W": 10,
+      "D": 3,
+      "L": 13,
+      "pts": 33
+    },
+    {
+      "standing": "13",
+      "club": "Crystal Palace",
+      "shortName": "CRY",
+      "PL": 26,
+      "W": 8,
+      "D": 9,
+      "L": 9,
+      "pts": 33
+    },
+    {
+      "standing": "14",
+      "club": "Everton",
+      "shortName": "EVE",
+      "PL": 26,
+      "W": 7,
+      "D": 10,
+      "L": 9,
+      "pts": 31
+    },
+    {
+      "standing": "15",
+      "club": "Man Utd",
+      "shortName": "MUN",
+      "PL": 26,
+      "W": 8,
+      "D": 6,
+      "L": 12,
+      "pts": 30
+    },
+    {
+      "standing": "16",
+      "club": "West Ham",
+      "shortName": "WHU",
+      "PL": 26,
+      "W": 8,
+      "D": 6,
+      "L": 12,
+      "pts": 30
+    },
+    {
+      "standing": "17",
+      "club": "Wolves",
+      "shortName": "WOL",
+      "PL": 26,
+      "W": 6,
+      "D": 4,
+      "L": 16,
+      "pts": 22
+    },
+    {
+      "standing": "18",
+      "club": "Ipswich",
+      "shortName": "IPS",
+      "PL": 26,
+      "W": 3,
+      "D": 8,
+      "L": 15,
+      "pts": 17
+    },
+    {
+      "standing": "19",
+      "club": "Leicester",
+      "shortName": "LEI",
+      "PL": 26,
+      "W": 4,
+      "D": 5,
+      "L": 17,
+      "pts": 17
+    },
+    {
+      "standing": "20",
+      "club": "Southampton",
+      "shortName": "SOU",
+      "PL": 26,
+      "W": 2,
+      "D": 3,
+      "L": 21,
+      "pts": 9
+    }
+  ]
+}
