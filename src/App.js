@@ -16,11 +16,11 @@ function AppContent() {
     <div className="app">
       <AnimatePresence mode="wait">
         <Routes location={location} key={location.pathname}>
-          <Route path="/" element={<Home />} />
-          <Route path="/all-fixtures" element={<AllFixtures />} />
-          <Route path="/plTable" element={<PLTable />} />
-          <Route path="/reels" element={<Reels />} />
-          <Route path="/profile" element={<Profile />} />
+          <Route path="/sportsapp/" element={<Home />} />
+          <Route path="/sportsapp/all-fixtures" element={<AllFixtures />} />
+          <Route path="/sportsapp/plTable" element={<PLTable />} />
+          <Route path="/sportsapp/reels" element={<Reels />} />
+          <Route path="/sportsapp/profile" element={<Profile />} />
         </Routes>
       </AnimatePresence>
       <NavBar />
@@ -30,7 +30,7 @@ function AppContent() {
 
 function App() {
   return (
-    <Router>
+    <Router basename="/sportsapp">
       <AppContent />
     </Router>
   );
