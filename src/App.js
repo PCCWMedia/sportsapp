@@ -8,9 +8,10 @@ import PLTable from './pages/plTable';
 import NavBar from './components/nav-bar';
 import Reels from './pages/reels';
 import Profile from './pages/Profile';  
+
 function App() {
   return (
-    <Router>
+    <Router basename="/sportsapp">
       <div className="app">
         <Routes>
           <Route path="/" element={
