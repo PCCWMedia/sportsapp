@@ -1,4 +1,4 @@
-import { HashRouter as Router, Routes, Route } from 'react-router-dom';
+import { BrowserRouter as Router, Routes, Route, useLocation } from 'react-router-dom';
 import { AnimatePresence } from 'framer-motion';
 import './App.css';
 
@@ -14,19 +14,19 @@ function App() {
       <div className="app">
        
         <Routes>
-          <Route path="/sportsapp/" element={
+          <Route path="/" element={
             <Home />
           } />
-          <Route path="/sportsapp/all-fixtures" element={
+          <Route path="/all-fixtures" element={
             <AllFixtures />
           } />
-          <Route path="/sportsapp/plTable" element={
+          <Route path="/plTable" element={
             <PLTable />
           } />
-          <Route path="/sportsapp/reels" element={
+          <Route path="/reels" element={
             <Reels />
           } />
-          <Route path="/sportsapp/profile" element={
+          <Route path="/profile" element={
             <Profile />
           } />
           {/* Add more routes here as you create more pages */}
