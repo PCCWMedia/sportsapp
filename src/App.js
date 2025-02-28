@@ -10,7 +10,7 @@ import Reels from './pages/reels';
 import Profile from './pages/Profile';  
 function App() {
   return (
-    <Router>
+    <Router basename={process.env.PUBLIC_URL}>
       <div className="app">
        
         <Routes>
