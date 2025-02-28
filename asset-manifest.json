@@ -1,8 +1,8 @@
 {
   "files": {
-    "main.css": "/sportsapp/static/css/main.320c8867.css",
-    "main.js": "/sportsapp/static/js/main.0aa85e5d.js",
-    "static/js/453.ed3810f9.chunk.js": "/sportsapp/static/js/453.ed3810f9.chunk.js",
+    "main.css": "/sportsapp/static/css/main.ccbcffc0.css",
+    "main.js": "/sportsapp/static/js/main.8f2d805b.js",
+    "static/js/453.68693753.chunk.js": "/sportsapp/static/js/453.68693753.chunk.js",
     "static/media/video-1.mp4": "/sportsapp/static/media/video-1.2b6055c4cf0942fce418.mp4",
     "static/media/video-2.mp4": "/sportsapp/static/media/video-2.e191f756b2fd7fcba0d5.mp4",
     "static/media/video-3.mp4": "/sportsapp/static/media/video-3.4e0d1de8b57670098556.mp4",
@@ -30,15 +30,19 @@
     "static/media/setting.svg": "/sportsapp/static/media/setting.19b019fb438ae016ca706dc6db4733b9.svg",
     "static/media/Now-TV-app.svg": "/sportsapp/static/media/Now-TV-app.1906c1e26ff4f0fc9f8bdb0067e5b451.svg",
     "static/media/sportsapp.woff": "/sportsapp/static/media/sportsapp.540fce8ed9d30b32fcf3.woff",
+    "static/media/slick.svg": "/sportsapp/static/media/slick.2630a3e3eab21c607e21.svg",
+    "static/media/slick.eot": "/sportsapp/static/media/slick.a4e97f5a2a64f0ab1323.eot",
     "static/media/nowtv-logo-w.svg": "/sportsapp/static/media/nowtv-logo-w.4d73002c7d9388dfb5e8e36e0889a3d8.svg",
+    "static/media/slick.ttf": "/sportsapp/static/media/slick.c94f7671dcc99dce43e2.ttf",
+    "static/media/slick.woff": "/sportsapp/static/media/slick.295183786cd8a1389865.woff",
     "static/media/help.svg": "/sportsapp/static/media/help.d855a2b99815c09353e60fd9540214cb.svg",
     "index.html": "/sportsapp/index.html",
-    "main.320c8867.css.map": "/sportsapp/static/css/main.320c8867.css.map",
-    "main.0aa85e5d.js.map": "/sportsapp/static/js/main.0aa85e5d.js.map",
-    "453.ed3810f9.chunk.js.map": "/sportsapp/static/js/453.ed3810f9.chunk.js.map"
+    "main.ccbcffc0.css.map": "/sportsapp/static/css/main.ccbcffc0.css.map",
+    "main.8f2d805b.js.map": "/sportsapp/static/js/main.8f2d805b.js.map",
+    "453.68693753.chunk.js.map": "/sportsapp/static/js/453.68693753.chunk.js.map"
   },
   "entrypoints": [
-    "static/css/main.320c8867.css",
-    "static/js/main.0aa85e5d.js"
+    "static/css/main.ccbcffc0.css",
+    "static/js/main.8f2d805b.js"
   ]
 }
