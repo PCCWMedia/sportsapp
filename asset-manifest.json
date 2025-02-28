@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/sportsapp/static/css/main.320c8867.css",
-    "main.js": "/sportsapp/static/js/main.b47aa83b.js",
+    "main.js": "/sportsapp/static/js/main.9dbbc74c.js",
     "static/js/453.ed3810f9.chunk.js": "/sportsapp/static/js/453.ed3810f9.chunk.js",
     "static/media/video-1.mp4": "/sportsapp/static/media/video-1.2b6055c4cf0942fce418.mp4",
     "static/media/video-2.mp4": "/sportsapp/static/media/video-2.e191f756b2fd7fcba0d5.mp4",
@@ -34,11 +34,11 @@
     "static/media/help.svg": "/sportsapp/static/media/help.d855a2b99815c09353e60fd9540214cb.svg",
     "index.html": "/sportsapp/index.html",
     "main.320c8867.css.map": "/sportsapp/static/css/main.320c8867.css.map",
-    "main.b47aa83b.js.map": "/sportsapp/static/js/main.b47aa83b.js.map",
+    "main.9dbbc74c.js.map": "/sportsapp/static/js/main.9dbbc74c.js.map",
     "453.ed3810f9.chunk.js.map": "/sportsapp/static/js/453.ed3810f9.chunk.js.map"
   },
   "entrypoints": [
     "static/css/main.320c8867.css",
-    "static/js/main.b47aa83b.js"
+    "static/js/main.9dbbc74c.js"
   ]
 }
