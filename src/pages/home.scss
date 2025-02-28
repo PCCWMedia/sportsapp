@@ -1,0 +1,79 @@
+.carousel-container {
+    margin: 30px 0;
+    padding: 0 20px;
+
+    .slick-prev, .slick-next {
+        z-index: 1;
+        &:before {
+            font-size: 30px;
+        }
+    }
+
+    .slick-prev {
+        left: 20px;
+    }
+
+    .slick-next {
+        right: 20px;
+    }
+    .liveCard{
+        border-radius: 30px;
+        background: linear-gradient(119deg, #05F0FF 4.48%, #7367FF 51.63%, #963CFF 98.79%);
+        padding: 30px;
+        color: white;
+        text-align: center;
+        h4{
+            font-family: 'Montserrat', sans-serif;
+            font-size: 14px;
+            font-weight: 600;
+            margin: 0 0 10px 0;
+        }
+        p{
+            font-family: 'Barlow', sans-serif;
+            font-size: 12px;
+            margin: 0;
+        }
+        .live-data{
+            display: flex;
+            flex-direction: row;
+            justify-content: space-between;
+            align-items: center;
+            padding: 0 30px;
+            img{
+                width: 50px;
+                height: 50px;
+            }
+            h5{
+                font-family: 'Montserrat', sans-serif;
+                font-size: 14px;
+                font-weight: 500;
+                margin: 8px 0 4px 0;
+            }
+            h6{
+                font-family: 'Barlow', sans-serif;
+                font-size: 12px;
+                margin: 0;
+                font-weight: 400;                
+            }
+            .homeTeam,.awayTeam{
+                display: flex;
+                flex-direction: column;
+                align-items: center;
+            }
+            .score{
+                h2{
+                    font-size: 36px;
+                    font-family: 'Barlow', sans-serif;
+                    font-weight: 600;
+                    margin: 0 0 8px 0;
+                }
+                p{
+                    font-size: 12px;
+                    border-radius: 20px;
+                    background: rgba(255, 255, 255, 0.40);
+                    padding: 4px 10px;
+                }       
+            }
+        }
+    }
+}

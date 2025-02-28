@@ -2,7 +2,7 @@ import React from 'react';
 import './fixtures.scss';
 import fixtures from './fixtures.json';
 
-export default function Fixtures({ title = "All Fixtures", showNextWeekOnly = false, showViewAll = true }) {
+export default function Fixtures({ title = "All Fixtures", showNextWeekOnly = false, showViewAll = true, limit }) {
     return (
         <div className="matches-wrapper">
                 <div className="title-header">
@@ -24,6 +24,7 @@ export default function Fixtures({ title = "All Fixtures", showNextWeekOnly = fa
                         }
                         return fixtureDate > today;
                     })
+                    .slice(0, limit)
                     .map((fixture) => {
                         const date = new Date(fixture.DateUtc);
                         return (
