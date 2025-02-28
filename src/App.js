@@ -14,19 +14,19 @@ function App() {
       <div className="app">
        
         <Routes>
-          <Route path="/" element={
+          <Route path="/sportsapp/" element={
             <Home />
           } />
-          <Route path="/all-fixtures" element={
+          <Route path="/sportsapp/all-fixtures" element={
             <AllFixtures />
           } />
-          <Route path="/plTable" element={
+          <Route path="/sportsapp/plTable" element={
             <PLTable />
           } />
-          <Route path="/reels" element={
+          <Route path="/sportsapp/reels" element={
             <Reels />
           } />
-          <Route path="/profile" element={
+          <Route path="/sportsapp/profile" element={
             <Profile />
           } />
           {/* Add more routes here as you create more pages */}
